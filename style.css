@@ -63,7 +63,3 @@ svg {
   fill: #6441a4;
   transform-origin: 0 55px;
 }
-
-.blink {
-  animation: blink 0.8s infinite alternate;
-}
